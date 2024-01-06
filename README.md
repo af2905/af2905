@@ -1,7 +1,4 @@
-### Hi there 👋, my name is Anatolii
-#### I am a software engineer
-
-I love traveling:airplane:, writing code:computer: and meeting new people:smile:. Open for communication))
+Pragmatic Android developer experienced in the full circle of mobile application development, from scratch to publication on Google Play.
 
 #### Skills: KOTLIN / JAVA / ANDROID 
 
